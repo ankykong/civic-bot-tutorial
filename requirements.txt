@@ -1,0 +1,5 @@
+pipecat-ai[cartesia,daily,deepgram,elevenlabs,openai,playht,silero]
+python-dotenv
+aiohttp
+fastapi
+uvicorn
